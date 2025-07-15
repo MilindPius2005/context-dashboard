@@ -41,7 +41,7 @@ A **fully functional** dashboard for visualizing and managing context windows, t
 
 ## 🛠️ **Technology Stack**
 
-- **Frontend**: React 18 + TypeScript
+- **Frontend**: React  + TypeScript
 - **Styling**: Tailwind CSS
 - **Charts**: Recharts
 - **Icons**: Lucide React
